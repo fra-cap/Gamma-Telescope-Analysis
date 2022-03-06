@@ -1,5 +1,7 @@
 # Analysis of the Telescope Gamma Dataset
 
+*NOTE : Original project repository at [https://github.com/spapicchio/Gamma-Telescope-Analysis](https://github.com/spapicchio/Gamma-Telescope-Analysis)*
+
 ## Overview of the repository
 - **./report.pdf :** the report of the analysis
 - **./visualization.ipynb:** it contains the code for the analysis of the dataset 
